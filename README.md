@@ -117,7 +117,7 @@ Developer Push → GitHub → GitHub Actions → Docker Build → ECR → ECS Fa
                                                                                                                                                                   
                                                                                                                                                                   **Shashidhar Reddy**
                                                                                                                                                                   - GitHub: [@ShashiReddy5](https://github.com/ShashiReddy5)
-                                                                                                                                                                  - LinkedIn: [linkedin.com/in/shashidhar-reddy](https://linkedin.com/in/shashidhar-reddy)
+                                                                                                                                                          - LinkedIn: [linkedin.com/in/shashidharreddy-java](https://www.linkedin.com/in/shashidharreddy-java/)
                                                                                                                                                                   
                                                                                                                                                                   ---
                                                                                                                                                                   
